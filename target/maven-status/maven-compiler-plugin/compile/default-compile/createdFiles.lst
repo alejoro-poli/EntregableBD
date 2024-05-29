@@ -1,0 +1,5 @@
+web\AddReservaServlet.class
+web\DeleteReservaServlet.class
+datos\DBConnection.class
+bd2\entregablebd\resources\JakartaEE8Resource.class
+web\UpdateReservaServlet.class
